@@ -1,1 +1,1 @@
-# rsschool-cv
+https://luckykronos.github.io/rsschool-cv/cv
