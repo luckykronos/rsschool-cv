@@ -1,5 +1,5 @@
 # Curriculum vitae
-## **Захаров Иван Андреевич**
+## **Zakharov Ivan**
 ***
 ## **Contacts:**
 * +375 29 262 09 88
