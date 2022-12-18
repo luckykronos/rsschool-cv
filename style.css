@@ -10,8 +10,6 @@
     width: 100%;
     height: 80%;
     background-color: rgb(241, 192, 127);
-    display: flex;
-    flex-wrap: wrap;
 }
 .footer {
     margin: 0 auto;
@@ -33,7 +31,12 @@
     list-style: none;
   }
   body {
-    width: 50%;
+    height: auto;
+    width: 80%;
     margin: 0 auto;
     background-color: black;
+  }
+  .photo2 {
+    width: 5%;
+    height: 5%;
   }
