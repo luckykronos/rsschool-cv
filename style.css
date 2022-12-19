@@ -1,0 +1,42 @@
+.header {
+    margin: 0 auto;
+    width: 100%;
+    height: 10%;   
+    background-color: rgb(178, 165, 190);
+    font-style: italic;
+}
+.main {
+    margin: 0 auto;
+    width: 100%;
+    height: 80%;
+    background-color: rgb(241, 192, 127);
+}
+.footer {
+    margin: 0 auto;
+    width: 100%;
+    height: 10%;
+    background-color: rgb(178, 165, 190);
+}
+.photo {
+    display: block;
+    margin: 0 auto;
+    align-items: center;
+    width: 10%;
+    height: 10%;   
+}
+.nav-list {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    list-style: none;
+  }
+  body {
+    height: auto;
+    width: 80%;
+    margin: 0 auto;
+    background-color: black;
+  }
+  .photo2 {
+    width: 5%;
+    height: 5%;
+  }
